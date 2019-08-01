@@ -1,0 +1,6 @@
+owner=604022522366787604
+prefix=+
+game=test
+stayinchannel=true
+songinstatus=false
+token=NjA2NjI0NTg4NDkwNzM1Nzg3.XUNzBA.Y8G_b-mX_fPkWTWvvzZbB6UQWbU
